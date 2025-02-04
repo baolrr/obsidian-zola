@@ -17,9 +17,9 @@ REPO_URL = "https://github.com/baolrr/obsidian-zola"
 # (Optional) Site title in navbar
 SITE_TITLE = "Bao's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = "https://baolrr.netlify.app"
+SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = ""
+SITE_URL = "https://baolrr.netlify.app"
 # (Optional) Site Timezone
 TIMEZONE = "America/New_York"
 ZOLA_VERSION = "0.15.2"
